@@ -40,6 +40,7 @@ A categorized list of popular free and [open source](https://en.wikipedia.org/wi
 ### Remote Sensing
 
 ### Spatial Analysis
+- [R](https://www.r-project.org/) - R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
 
 ### Visualization
 - [Google Charts](https://developers.google.com/chart/interactive/docs/) - Free tool with a wide range of capabilities for visualizing data from a website.
