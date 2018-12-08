@@ -36,11 +36,13 @@ A categorized list of popular free and [open source](https://en.wikipedia.org/wi
 
 ### Databases
 - [Mongo DB](https://github.com/mongodb) - mongoDB is ideal for developers who want precise control over the final results and processes for handling Big Data.
+- [PostGIS](https://postgis.net/) – PostGIS is a spatial database extender for PostgreSQL object-relational database. It adds support for geographic objects allowing location queries to be run in SQL.
 
-### Remote Sensing
+### Geographic Information Systems
+- [QGIS](https://www.qgis.org) – A free and open source Geographic Information System.
 
 ### Spatial Analysis
-- [R](https://www.r-project.org/) - is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
+- [R](https://cran.r-project.org/web/views/Spatial.html) - Free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
 
 ### Visualization
 - [Google Charts](https://developers.google.com/chart/interactive/docs/) - Free tool with a wide range of capabilities for visualizing data from a website.
