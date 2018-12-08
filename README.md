@@ -5,7 +5,7 @@ A categorized list of popular free and [open source](https://en.wikipedia.org/wi
 ## Table of Contents
 - [APIs](#apis)
 - [Databases](#databases)
-- [Remote Sensing](#remote-sensing)
+- [Geographic Information Systems](#geographic-information-systems)
 - [Spatial Analysis](#spatial-analysis)
 - [Visualization](#visualization)
 - [Web Mapping](#web-mapping)
