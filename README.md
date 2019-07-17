@@ -51,6 +51,7 @@ A categorized list of popular free and [open source](https://en.wikipedia.org/wi
 
 ### Web Mapping
 - [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps.
+- [OpenLayers](https://openlayers.org/) - An open-source JavaScript library for displaying map data in web browsers as slippy maps.
 
 ## Credit
 
