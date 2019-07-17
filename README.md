@@ -29,6 +29,7 @@ A categorized list of popular free and [open source](https://en.wikipedia.org/wi
 - [Naver Maps API](https://developers.naver.com/products/map) - Naver Maps provide multiple APIs for Korean map.
 - [Nokia](https://developer.here.com/develop/javascript-api) - Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget.
 - [Open Street Map](http://wiki.openstreetmap.org/wiki/API) - API access to OSM.
+- [Resource Watch](https://api.resourcewatch.org/) - Free geospatial datasets about the world's resources. Explore the datasets visually [here](https://resourcewatch.org/data/explore).
 - [Scribble](https://www.scribblemaps.com/api/) - The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.
 - [Yahoo Maps](https://developer.yahoo.com/maps/) - Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform.
 - [Yandex](https://tech.yandex.com/maps/) - API for installing Yandex.Maps and the necessary tools for working it on your web app or site.
@@ -45,6 +46,7 @@ A categorized list of popular free and [open source](https://en.wikipedia.org/wi
 - [R](https://cran.r-project.org/web/views/Spatial.html) - Free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
 
 ### Visualization
+- [d3-geo](https://observablehq.com/collection/@d3/d3-geo) - Geographic projections, spherical shapes and spherical trigonometry in D3 visualization language.
 - [Google Charts](https://developers.google.com/chart/interactive/docs/) - Free tool with a wide range of capabilities for visualizing data from a website.
 
 ### Web Mapping
